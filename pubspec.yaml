@@ -1,0 +1,22 @@
+name: FinTrack
+description: A simple expense tracker app using Flutter and SQLite
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+  provider: ^6.0.2
+  shared_preferences: ^2.0.11
+  font_awesome_flutter: ^10.1.0  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/
+environment:
+  sdk: "^3.6.0"
