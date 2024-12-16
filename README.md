@@ -1,5 +1,5 @@
 # FinTrack
-# expense_tracker
+# An Expense Tracker
 
 A Flutter project.
 
